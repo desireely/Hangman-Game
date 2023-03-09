@@ -5,7 +5,7 @@ import WrongLetters from "./components/WrongLetters";
 import Word from "./components/Word";
 import Message from "./components/Message";
 import Alert from "./components/Alert";
-import { showAlert as show, checkWin } from "./helpers/helpers";
+import { showAlert as show } from "./helpers/helpers";
 
 import "./App.css";
 
