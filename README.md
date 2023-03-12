@@ -4,7 +4,7 @@
 
 1. Open the project in VSCode
 2. Run terminal
-3. Run npm install
+3. Run command -- "npm install"
 4. Run command -- "npm run start"
 
 ## How To Play The Game
